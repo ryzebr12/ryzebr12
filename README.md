@@ -1,4 +1,4 @@
-### Olá meu nome é Faca, estudante de pentesting e OSINT, atualmente embarcando no mundo da Programação 🐱‍👤
+### Pode me chamar de NinjaCocaine ou Faca, estudante de pentesting e OSINT, atualmente embarcando no mundo da Programação 🐱‍👤
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="kali" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
@@ -26,9 +26,8 @@
 <img align="center" alt="tails" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
 <br/>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzebr12)](https://github.com/anuraghazra/github-readme-stats)
+<img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzebr12&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
