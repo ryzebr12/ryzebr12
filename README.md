@@ -24,9 +24,9 @@
 <img align="center" alt="tails" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="tails" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img align="center" alt="tails" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  
+
 <br/>
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzebr12)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
