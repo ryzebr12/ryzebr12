@@ -1,4 +1,4 @@
-### Pode me chamar de NinjaCocaine ou Faca, estudante de pentesting e OSINT, atualmente embarcando no mundo da Programação 🐱‍👤
+### Olá meeu nome é Faca, estudante de pentesting e OSINT, atualmente embarcando no mundo da Programação 🐱‍👤
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="kali" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
