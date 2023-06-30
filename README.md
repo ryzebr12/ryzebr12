@@ -26,6 +26,7 @@
 <img align="center" alt="tails" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
 <br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzebr12)](https://github.com/anuraghazra/github-readme-stats)
 
