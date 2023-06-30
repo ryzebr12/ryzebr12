@@ -25,6 +25,7 @@
 <img align="center" alt="tails" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img align="center" alt="tails" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzebr12)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -38,6 +39,5 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
-<br/>
 
 [![Facacega GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ryzebr12&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
