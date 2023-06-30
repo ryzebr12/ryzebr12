@@ -38,3 +38,5 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
+
+[![Facacega GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ryzebr12&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
