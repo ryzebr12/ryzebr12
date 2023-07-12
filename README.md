@@ -1,13 +1,18 @@
 <!-- Imagem da direita -->
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" >
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://www.defcon-lab.org/wp-content/uploads/2020/09/CyberTeam.jpg" >
 
 <!-- Imagem menor ao lado do nome -->
+
+
+
 <h1>
     <a href="https://github.com/ryzebr12">
      <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a><span> Facacega</span>
 </h1>
 
 <!-- Bio -->
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://png.pngtree.com/png-vector/20221102/ourmid/pngtree-hacker-logo-png-image_6408677.png" >
+
 <p align="justify">Hello. I'm a Brazilian hacker activist and I'm fascinated by OSINT and pentester. 🐱‍👤
     <br><br>
     
@@ -40,7 +45,9 @@ In learning.
 
 
 
-## Os:
+<h3 align="left">Os:</h3>
+
+##
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -51,7 +58,9 @@ In learning.
 
 </div>
 
-## Languages:
+<h3 align="left">Languages:</h3>
+
+##
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
