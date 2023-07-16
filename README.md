@@ -45,7 +45,7 @@ In learning.
 
 
 
-<h3 align="left">Os:</h3>
+<h3 align="left"></h3>
 
 ##
 
@@ -58,7 +58,7 @@ In learning.
 
 </div>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left"></h3>
 
 ##
 
@@ -77,7 +77,7 @@ In learning.
 
 <br/>
 
-<h3 align="left">Ide:</h3>
+<h3 align="left"></h3>
 
 ##
 
