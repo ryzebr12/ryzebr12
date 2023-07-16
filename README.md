@@ -7,7 +7,7 @@
 
 <h1>
     <a href="https://github.com/ryzebr12">
-     <img align="center" width="36px" src="https://whitehat.al/my_content/uploads/2021/02/cropped-whitehat.al_.jpg"></a><span> Facacega</span>
+     <img align="center" width="36px" src="https://e7.pngegg.com/pngimages/914/638/png-clipart-spy-spy.png"></a><span> Facacega</span>
 </h1>
 
 <!-- Bio -->
