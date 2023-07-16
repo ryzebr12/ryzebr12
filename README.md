@@ -1,5 +1,5 @@
 <!-- Imagem da direita -->
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://www.defcon-lab.org/wp-content/uploads/2020/09/CyberTeam.jpg" >
+<img align="right" alt="" >
 
 <!-- Imagem menor ao lado do nome -->
 
@@ -7,7 +7,7 @@
 
 <h1>
     <a href="https://github.com/ryzebr12">
-     <img align="center" width="36px" src="https://e7.pngegg.com/pngimages/914/638/png-clipart-spy-spy.png"></a><span> Facacega</span>
+     <img align="center" width="48px" src="https://e7.pngegg.com/pngimages/914/638/png-clipart-spy-spy.png"></a><span> Facacega</span>
 </h1>
 
 <!-- Bio -->
