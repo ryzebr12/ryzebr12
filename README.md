@@ -77,7 +77,7 @@ In learning.
 
 <br/>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Ide:</h3>
 
 ##
 
