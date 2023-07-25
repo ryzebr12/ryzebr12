@@ -7,7 +7,7 @@
 
 <h1>
     <a href="https://github.com/ryzebr12">
-     <img align="center" width="46px" src="https://e7.pngegg.com/pngimages/914/638/png-clipart-spy-spy.png"></a><span> Daniel </span>
+     <img align="center" width="46px" src=""></a><span> Daniel </span>
 </h1>
 
 <!-- Bio -->
