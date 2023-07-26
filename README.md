@@ -7,7 +7,7 @@
 
 <h1>
     <a href="https://github.com/ryzebr12">
-     <img align="center" width="46px" src=""></a><span> Daniel </span>
+     <img align="center" width="46px" src="https://png.pngtree.com/png-vector/20221102/ourmid/pngtree-hacker-logo-png-image_6408677.png"></a><span> 𝘋𝘢𝘯𝘪𝘦𝘭 </span>
 </h1>
 
 <!-- Bio -->
