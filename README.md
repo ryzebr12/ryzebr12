@@ -13,7 +13,7 @@
 <!-- Bio -->
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://png.pngtree.com/png-vector/20221102/ourmid/pngtree-hacker-logo-png-image_6408677.png" >
 
-<p align="justify">Hello. I'm a Brazilian hacker activist and I'm fascinated by OSINT and pentester. 🐱‍👤
+<p align="justify">Hello. I'm a Brazilian hacker activist and I'm fascinated by OSINT and pentester. 
     <br><br>
     
 In learning.
